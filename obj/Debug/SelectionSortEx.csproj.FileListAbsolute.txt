@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\bin\Debug\SelectionSortEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\bin\Debug\SelectionSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\bin\Debug\SelectionSortEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\obj\Debug\SelectionSortEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\obj\Debug\SelectionSortEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\obj\Debug\SelectionSortEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\obj\Debug\SelectionSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\SelectionSortEx\SelectionSortEx\obj\Debug\SelectionSortEx.pdb
